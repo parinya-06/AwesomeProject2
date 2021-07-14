@@ -29,11 +29,11 @@
           <View style={{width: 50, height:50, backgroundColor: "green"}}><Text>1</Text></View>
         </View>
 
-        <View style={{flex:1, backgroundColor: "yellow", justifyContent:"flex-end", flexDirection: "column"}}>
+        {/* <View style={{flex:1, backgroundColor: "yellow", justifyContent:"flex-end", flexDirection: "column"}}>
           <View style={{ backgroundColor: "yellow", justifyContent:"flex-end", flexDirection: "row"}}>  
             <View style={{width: 50, height:50, backgroundColor: "blue"}}><Text>1</Text></View>
           </View>
-        </View>
+        </View> */}
        
       </View>
     </View>
